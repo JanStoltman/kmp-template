@@ -1,0 +1,5 @@
+<lint>
+    <issue id="all">
+        <ignore regexp="ch.qos.logback.*"/>
+    </issue>
+</lint>
